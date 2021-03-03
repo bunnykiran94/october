@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="october" language="en" table="x_snc_october_october">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>october</label>
+            <language>en</language>
+            <name>x_snc_october_october</name>
+            <plural>octobers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bhanukiran.gokarla@snc</sys_created_by>
+            <sys_created_on>2020-10-07 08:47:56</sys_created_on>
+            <sys_id>2bc71bc81b779050a79275561a4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>october</sys_name>
+            <sys_package display_value="october" source="x_snc_october">f88793c81b779050a79275561a4bcb48</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="october">f88793c81b779050a79275561a4bcb48</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_october_october__en</sys_update_name>
+            <sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by>
+            <sys_updated_on>2020-10-07 08:47:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

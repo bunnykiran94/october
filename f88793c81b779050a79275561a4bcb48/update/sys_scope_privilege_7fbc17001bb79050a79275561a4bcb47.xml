@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="october">f88793c81b779050a79275561a4bcb48</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>bhanukiran.gokarla@snc</sys_created_by>
+        <sys_created_on>2020-10-07 09:09:31</sys_created_on>
+        <sys_id>7fbc17001bb79050a79275561a4bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>samp_m2m_rule_product</sys_name>
+        <sys_package display_value="october" source="x_snc_october">f88793c81b779050a79275561a4bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="october">f88793c81b779050a79275561a4bcb48</sys_scope>
+        <sys_update_name>sys_scope_privilege_7fbc17001bb79050a79275561a4bcb47</sys_update_name>
+        <sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by>
+        <sys_updated_on>2020-10-07 09:09:31</sys_updated_on>
+        <target_name>samp_m2m_rule_product</target_name>
+        <target_scope display_value="Software Asset Management Professional">4fdc28fecb632200f2de77a4634c9c62</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
